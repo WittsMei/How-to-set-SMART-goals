@@ -23,5 +23,4 @@ This goal fits all of the SMART goal criteria, which means you’ll be able to e
 
 ## Key takeaways
 This is just the beginning of your journey in learning more about setting SMART goals. As you move along in the course, you’ll gain some additional context for your SMART goals. For now, remember that SMART goals should always be: specific, measurable, attainable, relevant, and time-bound.
-![image](https://github.com/user-attachments/assets/9266a2f7-1f5b-4ab9-9460-b4501e133bc7)
 
